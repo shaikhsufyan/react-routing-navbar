@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-routing-navbar/static/css/main.93ed26d9.css",
+    "main.js": "/react-routing-navbar/static/js/main.25b5ebb8.js",
+    "static/js/787.bb9b6131.chunk.js": "/react-routing-navbar/static/js/787.bb9b6131.chunk.js",
+    "index.html": "/react-routing-navbar/index.html",
+    "main.93ed26d9.css.map": "/react-routing-navbar/static/css/main.93ed26d9.css.map",
+    "main.25b5ebb8.js.map": "/react-routing-navbar/static/js/main.25b5ebb8.js.map",
+    "787.bb9b6131.chunk.js.map": "/react-routing-navbar/static/js/787.bb9b6131.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93ed26d9.css",
+    "static/js/main.25b5ebb8.js"
+  ]
+}
